@@ -1,0 +1,12 @@
+[
+  {
+    "details_cost": 50,
+    "details_type": "TypeA",
+    "production_date": "2023-01-01"
+  },
+  {
+    "details_cost": 200,
+    "details_type": "TypeC",
+    "production_date": "2023-01-03"
+  }
+]
